@@ -1,2 +1,2 @@
 # Omarion-Cybersecuirty-Portfolio
-Cybersecurity Labs, scripts, and walkthrough by Omarion
+Cybersecurity Labs, scripts, and walkthrough by Mar1
